@@ -7,3 +7,5 @@ Experienced QA Automation Engineer with a demonstrated history of working in div
 Proficient in creating custom frameworks for healthcare, fintech, and real estate applications. Adept at working with industry-standard tools and methodologies, including Agile/Scrum, and experienced in automating business-critical flows, writing well-structured test cases, and generating comprehensive test reports. Skilled in API testing, regression testing, and performance testing, with hands-on experience in using tools like Postman and JMeter. Known for resolving customer queries on live products, coordinating with cross-functional teams, and maintaining detailed documentation throughout the software development lifecycle..
 
 - 📫 How to reach me awais.3utt@gmail.com
+
+ https://github.com/ryo-ma/github-profile-trophy
