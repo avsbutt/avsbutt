@@ -8,5 +8,5 @@ Proficient in creating custom frameworks for healthcare, fintech, and real estat
 
 - 📫 How to reach me awais.3utt@gmail.com
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=your-username)](https://github.com/ryo-ma/github-profile-trophy)
+
 
