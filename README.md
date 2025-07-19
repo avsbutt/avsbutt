@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I'm Awais</h1>
 <h3 align="center">Experienced QA Automation Engineer with a demonstrated history of working in diverse industries including E-commerce, Health Care, Fintech, CRM, and Blockchain Specialized in test automation using Cypress, Playwright (JavaScript / Python), Selenium (Python), and Appium( Java). Bringing over 4+ years of solid experience in ensuring the quality of both mobile and web applications.</h3>
-<h2> Known for delivering high-quality, defect-free products in Agile environments through effective collaboration, problem-solving, and a strong focus on software quality.</h2>
 
 
 - 🌱 I’m currently working with **Cucumber(BDD) , Playwright , Rest Assure(API)**
