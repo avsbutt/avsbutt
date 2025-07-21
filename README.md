@@ -62,6 +62,15 @@ You can click the Preview link to take a look at your changes.
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> 
   </a> 
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
+</a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+</a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github actions" width="40" height="40"/>
+</a>
 </p>
 
 
