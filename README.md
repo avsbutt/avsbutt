@@ -76,7 +76,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
 </a>
 <a href="https://k6.io/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/K6_logo.svg/1024px-K6_logo.svg.png" alt="k6" width="40" height="40"/>
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/K6-load-testing-tool-logo.svg/40px-K6-load-testing-tool-logo.svg.png" 
+    alt="k6" width="40" height="40"/>
 </a>
 
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
