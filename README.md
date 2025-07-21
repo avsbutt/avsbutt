@@ -27,6 +27,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="cypress" width="40" height="40"/> 
   </a> 
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> 
+</a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
@@ -57,10 +60,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> 
   </a> 
-<a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> 
-</a>
-
 </p>
 
 
