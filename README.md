@@ -76,8 +76,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://user-images.githubusercontent.com/29228205/228514456-8be8f5e5-1a2e-4df5-93f3-b26d8c831b49.png" alt="k6" width="40" height="40"/>
 </a>
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/HaroonDhanyal/assets/main/jmeter-logo-square.png" alt="jmeter" width="40" height="40"/>
+  <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="60" height="60"/>
 </a>
+
 
 
 <a href="https://grafana.com/" target="_blank" rel="noreferrer">
