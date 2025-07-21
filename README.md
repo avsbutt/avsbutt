@@ -53,8 +53,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
 <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="40" height="40"/>
 </a>
+
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -75,8 +76,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/grafana/k6/master/assets/images/k6-logo.svg" alt="k6" width="40" height="40"/>
 </a>
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://jmeter.apache.org/images/jmeter.svg" alt="jmeter" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/JMeter_Logo.png" alt="jmeter" width="40" height="40"/>
 </a>
+
 
 </p>
 
