@@ -57,6 +57,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> 
   </a> 
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> 
+  </a> 
 </p>
 
 
