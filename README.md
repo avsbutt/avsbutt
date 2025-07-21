@@ -72,18 +72,20 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github actions" width="40" height="40"/>
 </a>
-<a href="https://k6.io/" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/29228205/228514456-8be8f5e5-1a2e-4df5-93f3-b26d8c831b49.png" alt="k6" width="40" height="40"/>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
 </a>
+<a href="https://k6.io/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/K6_logo.svg/1024px-K6_logo.svg.png" alt="k6" width="40" height="40"/>
+</a>
+
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="110" height="110"/>
 </a>
 
 
 
-<a href="https://grafana.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-</a>
+
 
 
 </p>
