@@ -24,9 +24,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
   </a> 
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" alt="cypress" width="40" height="40"/> 
-</a>
+ <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="cypress" width="40" height="40"/> 
+  </a> 
 
 
 <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
